@@ -14,7 +14,6 @@ public class Main_S5_1913 {
 		int[] dy = {0, 1, 0, -1};
 		int[][] arr = new int[n][n];
 		int print_x = 0, print_y = 0;
-
 		if (n == 1) {
 			sb.append("1");
 		}
