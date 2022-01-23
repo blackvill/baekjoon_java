@@ -1,0 +1,8 @@
+package BOJ_bronze;
+
+public class Main_B5_15962 {
+
+	public static void main(String[] args) {
+		System.out.println("파이팅!!");
+	}
+}
